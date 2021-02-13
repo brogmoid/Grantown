@@ -682,6 +682,12 @@ input, select, textarea {
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
 		}
+		
+		.image.smol {
+			display: block;
+			margin: 0 0 2rem 0;
+			height: 25%;
+		}
 
 		.image.fit {
 			display: block;
